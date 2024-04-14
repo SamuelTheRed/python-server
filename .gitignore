@@ -1,0 +1,3 @@
+# Python Virtual Environment + General Environments
+.venv/
+.env*.local
