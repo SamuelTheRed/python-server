@@ -1,0 +1,16 @@
+Setting Up Python
+https://learn.microsoft.com/en-us/windows/python/web-frameworks
+
+Flask
+https://flask.palletsprojects.com/en/3.0.x/
+
+Intro Info
+https://thinkinfi.com/introduction-to-flask-python/
+https://thinkinfi.com/flask-adding-html-and-css/
+
+Templates
+https://flask.palletsprojects.com/en/2.3.x/tutorial/templates/
+
+TODO:
+WSGI server
+https://flask.palletsprojects.com/en/2.2.x/deploying/
