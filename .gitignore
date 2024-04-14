@@ -1,3 +1,4 @@
 # Python Virtual Environment + General Environments
 .venv/
 .env*.local
+**/__pycache__
