@@ -1,5 +1,6 @@
 # Import Flask and Create Instance of the Flask Object
 from flask import Flask, render_template
+from markupsafe import escape
 app = Flask(__name__, template_folder="templates", static_folder="static")
 
 
@@ -27,6 +28,11 @@ def home():
     # return contentSS()
 
     return render_template("index.html")
+
+# Info Page
+@app.route("/info")
+def info():
+    return render_template("info-page.html")
 
 # Call File Using Python3 command
 if __name__=='__main__':

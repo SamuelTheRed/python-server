@@ -1,5 +1,9 @@
+body {background-color: #000; color: #fff;}
+
 div {
     background-color: #452828;
     color: white;
     padding: 50px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
 }
